@@ -2,7 +2,7 @@ node {
 	
     def application = "devopsexample"
     
-    //Its mandatory to change the Docker Hub Account ID after this Repo is forked by an other person
+    
     def dockerhubaccountid = "websh001"
 	
     // reference to maven
